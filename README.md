@@ -1,0 +1,1 @@
+# Adaptive-Priors-for-Burstiness-Analysis-in-Topic-Modeling-with-Generalized-Dirichlet-Distributions
